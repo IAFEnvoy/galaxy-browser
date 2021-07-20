@@ -1,0 +1,11 @@
+E:\code\galaxy browser\bin\x86\Debug\galaxy browser.exe.config
+E:\code\galaxy browser\bin\x86\Debug\galaxy browser.exe
+E:\code\galaxy browser\bin\x86\Debug\galaxy browser.pdb
+E:\code\galaxy browser\obj\x86\Debug\galaxy browser.csprojAssemblyReference.cache
+E:\code\galaxy browser\obj\x86\Debug\galaxy_browser.Form1.resources
+E:\code\galaxy browser\obj\x86\Debug\galaxy_browser.Properties.Resources.resources
+E:\code\galaxy browser\obj\x86\Debug\galaxy browser.csproj.GenerateResource.cache
+E:\code\galaxy browser\obj\x86\Debug\galaxy browser.csproj.CoreCompileInputs.cache
+E:\code\galaxy browser\obj\x86\Debug\galaxy browser.csproj.CopyComplete
+E:\code\galaxy browser\obj\x86\Debug\galaxy browser.exe
+E:\code\galaxy browser\obj\x86\Debug\galaxy browser.pdb

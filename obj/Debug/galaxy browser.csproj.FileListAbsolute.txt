@@ -1,0 +1,22 @@
+E:\code\galaxy browser\bin\Debug\galaxy browser.exe.config
+E:\code\galaxy browser\bin\Debug\galaxy browser.exe
+E:\code\galaxy browser\bin\Debug\galaxy browser.pdb
+E:\code\galaxy browser\obj\Debug\galaxy browser.csprojAssemblyReference.cache
+E:\code\galaxy browser\obj\Debug\galaxy_browser.Form1.resources
+E:\code\galaxy browser\obj\Debug\galaxy_browser.Properties.Resources.resources
+E:\code\galaxy browser\obj\Debug\galaxy browser.csproj.GenerateResource.cache
+E:\code\galaxy browser\obj\Debug\galaxy browser.csproj.CoreCompileInputs.cache
+E:\code\galaxy browser\obj\Debug\galaxy browser.csproj.CopyComplete
+E:\code\galaxy browser\obj\Debug\galaxy browser.exe
+E:\code\galaxy browser\obj\Debug\galaxy browser.pdb
+E:\code\galaxy browser\obj\Debug\galaxy_browser.Download.resources
+E:\code\galaxy browser\bin\Debug\Common.Logging.dll
+E:\code\galaxy browser\obj\Debug\NeteaseMuisc.musics.resources
+E:\code\galaxy browser\bin\Debug\System.Numerics.dll
+E:\code\galaxy browser\obj\Debug\galaxy_browser.toolbox.resources
+E:\code\galaxy browser\obj\Debug\galaxy_browser.history.resources
+E:\code\galaxy browser\bin\Debug\zxing.dll
+E:\code\galaxy browser\bin\Debug\zxing.presentation.dll
+E:\code\galaxy browser\obj\Debug\galaxy_browser.QR.QR.resources
+E:\code\galaxy browser\obj\Debug\galaxy_browser.setting.resources
+E:\code\galaxy browser\obj\Debug\NeteaseMuisc.download.resources
